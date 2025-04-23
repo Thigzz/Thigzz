@@ -7,8 +7,8 @@
 <h1 align="center">Hi there, I'm <span style="color:#ff6f61; font-weight:bold">Ike Mwithiga</span> 👋</h1>
 
 <p align="center">
-  <strong><em>Architect</em></strong> 🏛️ + <strong><em>Creative Coder</em></strong> 💻<br>
-  <span style="color:#888; font-style:italic">Merging the physical and digital through design.</span>
+  🏛️ <span style="color:#aaa;">Architect crafting blueprints by day,</span><br>
+  💻 <span style="color:#bbb;">Building digital worlds by night.</span>
 </p>
 
 <hr>
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhino&logoColor=white&labelColor=101010">
   <img src="https://img.shields.io/badge/Lumion-00A8E8?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white&labelColor=101010"> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white&labelColor=101010">
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=101010">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010">
 </p>
 
 <p>
@@ -75,22 +76,30 @@
 
 <p align="center">
    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4l9a6nnnpk1pp61ehh5b37bup&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4l9a6nnnpk1pp61ehh5b37bup&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5e4eb1&bar_color_cover=true" alt="Spotify Now Playing" width="100%"/>
-  </a>
+     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4l9a6nnnpk1pp61ehh5b37bup&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5e4eb1&bar_color_cover=true" alt="Spotify Now Playing"/>
+   </a>
 </p>
 
 <hr>
 
 ## ✨ <span style="color:#26c6da; font-size:1.2em">GitHub Stats & Flair</span>
 
-<table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thigzz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" /></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=8&theme=material-palenight&hide=other" /></td>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Thigzz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=8&theme=material-palenight&hide=other" />
+    </td>
   </tr>
 </table>
 
-![GitHub Snake](https://github.com/Thigzz/Thigzz/blob/main/dist/github-contribution-grid-snake-dark.svg)
+
+
+<p>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub Profile 3D Contribution Graph">
+</p>
 
 <hr>
 
