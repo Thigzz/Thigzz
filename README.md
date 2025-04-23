@@ -83,7 +83,7 @@
 
 ## ✨ <span style="color:#26c6da; font-size:1.2em">GitHub Stats & Flair</span>
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thigzz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=8&theme=material-palenight"/>
 </p>
