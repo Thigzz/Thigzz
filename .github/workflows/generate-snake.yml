@@ -34,4 +34,4 @@ jobs:
           message: "Generated snake animation"
           add: "dist/*.svg"
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Automatically provided by GitHub Actions
