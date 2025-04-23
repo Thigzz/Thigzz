@@ -39,4 +39,4 @@ jobs:
           # author_email: github-actions[bot]@users.noreply.github.com # Let the action use the git config
           message: "Generate Contribution Snake" # Commit message
           add: "dist/*.svg" # Path to the generated files
-          # GITHUB_TOKEN is implicitly used by EndBug/add-and-commit when needed for push
+          # GITHUB_TOKEN is implicitly used by EndBug/add-and-commit when needed for pushS
