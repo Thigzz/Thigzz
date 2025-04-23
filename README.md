@@ -73,13 +73,13 @@
 <hr>
 
 ## 🎧 <span style="color:#1db954; font-size:1.2em">Vibe With Me</span>
-<p align="center">
-   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4l9a6nnnpk1pp61ehh5b37bup&redirect=true">
 
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4l9a6nnnpk1pp61ehh5b37bup&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5e4eb1&bar_color_cover=true" alt="Spotify Now Playing" width="100%"/>
+<div align="center" style="margin-top: -5px; margin-bottom: 5px;">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4l9a6nnnpk1pp61ehh5b37bup&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4l9a6nnnpk1pp61ehh5b37bup&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5e4eb1&bar_color_cover=true" alt="Spotify Now Playing" width="100%" style="margin: 0; padding: 0;" />
+  </a>
+</div>
 
-  </a>
-</p>
 <hr>
 
 ## ✨ <span style="color:#26c6da; font-size:1.2em">GitHub Stats & Flair</span>
