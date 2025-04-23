@@ -84,14 +84,10 @@
 
 ## ✨ <span style="color:#26c6da; font-size:1.2em">GitHub Stats & Flair</span>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Thigzz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center" style="border: none; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=8&theme=material-palenight&hide=other" />
-    </td>
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thigzz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" /></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=8&theme=material-palenight" /></td>
   </tr>
 </table>
 
