@@ -71,7 +71,7 @@
 
 <hr>
 
-## 🎧 <span style="color:#1db954; font-size:1.2em">Now Playing on Spotify</span>
+## 🎧 <span style="color:#1db954; font-size:1.2em">Vibe With Me</span>
 
 <p align="center">
    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4l9a6nnnpk1pp61ehh5b37bup&redirect=true">
