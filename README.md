@@ -90,6 +90,8 @@
   </tr>
 </table>
 
+![GitHub Snake](https://github.com/Thigzz/Thigzz/blob/main/dist/github-contribution-grid-snake-dark.svg)
+
 <hr>
 
 ## 🔗 <span style="color:#42a5f5; font-size:1.2em">Let's Connect</span>
