@@ -74,8 +74,8 @@
 ## 🎧 <span style="color:#1db954; font-size:1.2em">Now Playing on Spotify</span>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME"> 
-    <img src="https://novatorem-spotify-widget.vercel.app/api/spotify?username=4l9a6nnnpk1pp61ehh5b37bup&show_offline=true&background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4l9a6nnnpk1pp61ehh5b37bup&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4l9a6nnnpk1pp61ehh5b37bup&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5e4eb1&bar_color_cover=true" alt="Spotify Now Playing" width="100%"/>
   </a>
 </p>
 
