@@ -72,6 +72,10 @@
 
 <hr>
 
+## 📝 Latest Blog Posts
+
+<hr>
+
 ## 🎧 <span style="color:#1db954; font-size:1.2em">Vibe With Me</span>
 
 <div align="center" style="margin-top: -5px; margin-bottom: 5px;">
