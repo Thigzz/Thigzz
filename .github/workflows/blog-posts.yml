@@ -1,0 +1,28 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour, you can change this
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4 # Using a more recent version of checkout
+      - name: Pull in Hashnode posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "5" # Number of posts to show (you can change this)
+          feed_list: "https://ithoughtialready.hashnode.dev/rss.xml" # YOUR Hashnode RSS feed
+          # Optional:
+          # date_format: "mmmm d, yyyy" # Example: "May 10, 2025"
+          # template: |
+          #   #### [$title]($url)
+          #   *Published: $date*
+          #
+          #   ---
+          # remove_duplicates: "true"
+          #คอมเมนต์_ข้อความ: "Your custom commit message"
