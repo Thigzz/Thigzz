@@ -72,11 +72,15 @@
 
 <hr>
 
-## 📝 Latest Blog Posts
+## 📝 From CAD to Code
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746955335596/d1fdd516-43cf-4ac2-86bf-f05191766704.png" alt="Cover image for 'From Spatial Design to Digital Interfaces'" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
 
+**From Spatial Design to Digital Interfaces: The Language of Space, Rewritten in CSS**
+
+<br clear="all"/> [![Read Full Article](https://img.shields.io/badge/Read_Full_Article-007bff?style=for-the-badge&logo=readme)](https://ithoughtialready.hashnode.dev/from-spatial-design-to-digital-interfaces-the-language-of-space-rewritten-in-css)
+<br clear="all"/>
 <!-- HASHNODE-BLOG:START -->
 <!-- HASHNODE-BLOG:END -->
-
 
 <hr>
 
