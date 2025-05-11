@@ -1,40 +1,33 @@
-name: Update README with Latest Blog Posts
+name: Update README with Latest Hashnode Blog Posts
 
 on:
   schedule:
-    # This will run the action every day at midnight
-    - cron: '0 0 * * *'
-  push:
-    branches:
-      - main  # Triggers the workflow when pushing to the main branch
+    - cron: '0 */12 * * *' # every 12 hours
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
-    - name: Set up Python 3.x
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        pip install requests
+      - name: Install feedparser
+        run: pip install feedparser
 
-    - name: Run Python script to update README
-      run: |
-        python update_readme.py  # Assuming the script is named 'update_readme.py'
+      - name: Run Python script
+        run: python update_readme.py
 
-    - name: Commit and push changes to README.md
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-        git add README.md
-        git commit -m "Update README with latest blog posts"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "📝 Update latest Hashnode blog post" || echo "No changes to commit"
+          git push
