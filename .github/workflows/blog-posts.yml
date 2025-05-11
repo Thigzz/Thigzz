@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour, you can change this
-    - cron: '0 * * * *'
+    # Runs every 6 hous
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
 jobs:
@@ -15,14 +15,5 @@ jobs:
       - name: Pull in Hashnode posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "5" # Number of posts to show (you can change this)
-          feed_list: "https://ithoughtialready.hashnode.dev/rss.xml" # YOUR Hashnode RSS feed
-          # Optional:
-          # date_format: "mmmm d, yyyy" # Example: "May 10, 2025"
-          # template: |
-          #   #### [$title]($url)
-          #   *Published: $date*
-          #
-          #   ---
-          # remove_duplicates: "true"
-          #คอมเมนต์_ข้อความ: "Your custom commit message"
+          max_post_count: "2" # Number of posts to show (you can change this)
+          feed_list: "https://ithoughtialready.hashnode.dev/rss.xml"
