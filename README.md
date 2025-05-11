@@ -44,7 +44,6 @@
   <strong>🧰 Software:</strong> <br>
   <img src="https://img.shields.io/badge/Archicad-B81A1A?style=for-the-badge&logo=archicad&logoColor=white&labelColor=101010">
   <img src="https://img.shields.io/badge/AutoCAD-E2231A?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010">
-  <img src="https://img.shields.io/badge/Revit-0C2340?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010">
   <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhino&logoColor=white&labelColor=101010">
   <img src="https://img.shields.io/badge/Lumion-00A8E8?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white&labelColor=101010"> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white&labelColor=101010">
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=101010">
