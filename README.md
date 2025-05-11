@@ -7,7 +7,8 @@
 <h1 align="center">Hi there, I'm <span style="color:#ff6f61; font-weight:bold">Ike Mwithiga</span> 👋</h1>
 
 <p align="center">
-  <strong><em>Architect</em></strong> 🏛️ + <strong><em>Creative Coder</em></strong> 💻<br>
+  <strong><em>Architect moonlighting as a coder.</em></strong> 🏛️ <br>
+  <strong><em>Designer by training, coder by curiosity.</em></strong> 💻<br>
   <span style="color:#888">Merging the physical and digital through design.</span>
 </p>
 
