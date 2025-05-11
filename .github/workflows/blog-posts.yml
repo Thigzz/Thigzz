@@ -23,7 +23,7 @@ jobs:
           echo "## 📝 Latest Blog Posts" > blog.md
           echo "" >> blog.md
 
-          xmlstarlet sel -t -m "//item[position() <= 5]" \
+          xmlstarlet sel -t -m "/rss/channel/item[position() <= 5]" \
             -v "concat('- [', title, '](', link, ')')" -n blog.xml >> blog.md
 
           awk '/<!-- HASHNODE-BLOG:START -->/{print; system("cat blog.md"); next} /<!-- HASHNODE-BLOG:END -->/{print; next} 1' README.md > tmp && mv tmp README.md
