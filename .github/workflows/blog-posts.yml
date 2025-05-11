@@ -1,33 +1,40 @@
-name: 📝 Update Hashnode Blog Posts
+name: Update README with Latest Blog Posts
 
 on:
   schedule:
-    - cron: '0 12 * * 1'  # Every Monday at 12:00 UTC
-  workflow_dispatch:
+    # This will run the action every day at midnight
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main  # Triggers the workflow when pushing to the main branch
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install requests
+    - name: Install dependencies
+      run: |
+        pip install requests
 
-      - name: Fetch latest blog posts
-        run: python fetch_hashnode_posts.py
+    - name: Run Python script to update README
+      run: |
+        python update_readme.py  # Assuming the script is named 'update_readme.py'
 
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "🔄 Update Hashnode blog posts" || echo "No changes to commit"
-          git push
+    - name: Commit and push changes to README.md
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add README.md
+        git commit -m "Update README with latest blog posts"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
