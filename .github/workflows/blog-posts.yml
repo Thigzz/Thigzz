@@ -13,20 +13,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install xmlstarlet
-        run: sudo apt-get update && sudo apt-get install -y xmlstarlet
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
 
       - name: Fetch latest blog posts
-        run: |
-          curl -s "https://ithoughtialready.hashnode.dev/rss.xml" -o blog.xml
-
-          echo "## 📝 Latest Blog Posts" > blog.md
-          echo "" >> blog.md
-
-          xmlstarlet sel -t -m "/rss/channel/item[position() <= 5]" \
-            -v "concat('- [', title, '](', link, ')')" -n blog.xml >> blog.md
-
-          awk '/<!-- HASHNODE-BLOG:START -->/{print; system("cat blog.md"); next} /<!-- HASHNODE-BLOG:END -->/{print; next} 1' README.md > tmp && mv tmp README.md
+        run: python fetch_hashnode_posts.py
 
       - name: Commit and push if changed
         run: |
