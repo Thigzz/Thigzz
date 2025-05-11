@@ -1,19 +1,37 @@
-name: Latest blog post workflow
+name: 📝 Update Hashnode Blog Posts
+
 on:
   schedule:
-    # Runs every 6 hous
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+    - cron: '0 12 * * 1'  # Every Monday at 12:00 UTC
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4 # Using a more recent version of checkout
-      - name: Pull in Hashnode posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: "2" # Number of posts to show (you can change this)
-          feed_list: "https://ithoughtialready.hashnode.dev/rss.xml"
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install xmlstarlet
+        run: sudo apt-get update && sudo apt-get install -y xmlstarlet
+
+      - name: Fetch latest blog posts
+        run: |
+          curl -s "https://ithoughtialready.hashnode.dev/rss.xml" -o blog.xml
+
+          echo "## 📝 Latest Blog Posts" > blog.md
+          echo "" >> blog.md
+
+          xmlstarlet sel -t -m "//item[position() <= 5]" \
+            -v "concat('- [', title, '](', link, ')')" -n blog.xml >> blog.md
+
+          awk '/<!-- HASHNODE-BLOG:START -->/{print; system("cat blog.md"); next} /<!-- HASHNODE-BLOG:END -->/{print; next} 1' README.md > tmp && mv tmp README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "🔄 Update Hashnode blog posts" || echo "No changes to commit"
+          git push
