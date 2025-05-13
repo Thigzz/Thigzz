@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://placehold.co/1200x300/212121/FAFAFA?text=Building+Digital+Structures&font=inter">
-  <source media="(prefers-color-scheme: light)" srcset="https://placehold.co/1200x300/FAFAFA/212121?text=Building+Digital+Structures&font=inter">
-  <img alt="Banner reading 'Building Digital Structures'" src="https://placehold.co/1200x300/FAFAFA/212121?text=Building+Digital+Structures&font=inter">
+<img alt="Banner reading 'Building Digital Structures'" src="https://placehold.co/1200x300/FAFAFA/212121?text=Building+Digital+Structures&font=inter">
 </picture>
 
 <h1 align="center">Hi there, I'm <span style="color:#ff6f61; font-weight:bold">Ike Mwithiga</span> 👋</h1>
@@ -73,11 +70,24 @@
 <hr>
 
 ## 📝 From CAD to Code
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747144795227/6b27448f-46c8-4bee-b05f-2056c8fea75b.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Cover image for 'From Spatial Design to Digital Interfaces'" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
+
+**GeoScout Chronicles: Part 1 - The Spark & First Steps**
+<p>
+  Follow along as I navigate the world of software development, chronicling the creation of GeoScout – a web-based site analysis tool. This series documents the journey from identifying a real-world architectural challenge to designing and implementing a practical solution using various web technologies. Discover the inspirations, features considered, implementation successes and stumbles, and the ongoing learning process of building a personal project from the ground up.
+</p>
+
+<br clear="all"/> [![Read Full Article](https://img.shields.io/badge/Read_Full_Article-007bff?style=for-the-badge&logo=readme)](https://ithoughtialready.hashnode.dev/from-spatial-design-to-digital-interfaces-the-language-of-space-rewritten-in-css)
+<br clear="all"/>
+
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746955335596/d1fdd516-43cf-4ac2-86bf-f05191766704.png" alt="Cover image for 'From Spatial Design to Digital Interfaces'" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
 
 **From Spatial Design to Digital Interfaces: The Language of Space, Rewritten in CSS**
+<p>
+  I traded blueprints for browser windows, and while some of this coding stuff still makes my brain do backflips, something totally clicked when I met CSS. Turns out, designing a website isn't a million miles away from designing a building.
+</p>
 
-<br clear="all"/> [![Read Full Article](https://img.shields.io/badge/Read_Full_Article-007bff?style=for-the-badge&logo=readme)](https://ithoughtialready.hashnode.dev/from-spatial-design-to-digital-interfaces-the-language-of-space-rewritten-in-css)
+<br clear="all"/> [![Read Full Article](https://img.shields.io/badge/Read_Full_Article-007bff?style=for-the-badge&logo=readme)](https://ithoughtialready.hashnode.dev/geoscout-chronicles-part-1-the-spark-and-first-steps)
 <br clear="all"/>
 <!-- HASHNODE-BLOG:START -->
 <!-- HASHNODE-BLOG:END -->
