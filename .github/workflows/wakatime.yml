@@ -1,0 +1,29 @@
+name: WakaTime Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  update-readme:
+    name: Update WakaTime Readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/wakatime-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### Options (uncomment and adjust as needed)
+          # MAX_LINES: 5 # Number of languages/editors to show
+          # TIME_RANGE: last_7_days # Can be all_time, last_7_days, last_30_days, etc.
+          # BLOCKLIST: "YAML,JSON" # Comma-separated list of languages/editors to exclude
+          # SHOW_PROFILE_VIEWS: "False" # Set to "True" to include profile views (requires personal access token)
+          # SHOW_DAYS_OF_WEEK: "False" # Set to "True" to show coding activity by day of week
+          # SHOW_OS: "False" # Set to "True" to show operating systems used
+          # SHOW_COMMIT: "False" # Set to "True" to show commit activity
+          # SHOW_SHORT_INFO: "False" # Set to "True" for a concise summary
+          # SHOW_EDITORS: "False" # Set to "True" to show editors
+          # SHOW_PROJECTS: "False" # Set to "True" to show projects
+          # SHOW_LANGUAGE_PER_GOAL: "False" # Set to "True" to show language goal progress
+          # SHOW_TIME_OF_DAY: "False" # Set to "True" to show coding activity by time of day
+          # SHOW_TOTAL_CODE_TIME: "False" # Set to "True" to show total coding time
