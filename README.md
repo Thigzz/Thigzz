@@ -19,6 +19,10 @@
 
 <hr>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 🚀 <span style="color:#29b6f6; font-size:1.2em">Coding Journey</span>
 
 - 🏗️ <strong>Foundation Phase:</strong> HTML + CSS + JavaScript — shaping visual language and interactivity
