@@ -10,7 +10,7 @@ jobs:
     name: Update WakaTime Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/wakatime-readme@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### Options (uncomment and adjust as needed)
