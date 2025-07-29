@@ -1,7 +1,7 @@
 <img alt="Banner reading 'Building Digital Structures'" src="https://placehold.co/1200x300/FAFAFA/212121?text=Building+Digital+Structures&font=inter">
 </picture>
 
-<h1 align="center">Hi there, I'm <span style="color:#ff6f61; font-weight:bold">Ike Mwithiga</span> 👋</h1>
+<h1 align="center">Hi there <span style="color:#ff6f61; font-weight:bold"></h1>
 
 <p align="center">
   <strong><em>Architect moonlighting as a coder.</em></strong> 🏛️ <br>
@@ -120,12 +120,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub Profile 3D Contribution Graph">
 </p>
 
-<hr>
-
-## 🔗 <span style="color:#42a5f5; font-size:1.2em">Let's Connect</span>
-
-- <a href="https://wearecanvas.myportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=adobe&logoColor=white" alt="Portfolio Badge"></a>
-- <a href="https://ke.linkedin.com/in/ike-mwithiga-410380116" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <hr>
 
 <p align="center">
