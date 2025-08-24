@@ -70,7 +70,7 @@
 
 <hr>
 
-## 📝 From CAD to Code
+<!--## 📝 From CAD to Code
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747144795227/6b27448f-46c8-4bee-b05f-2056c8fea75b.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Cover image for 'From Spatial Design to Digital Interfaces'" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
 
 **GeoScout Chronicles: Part 1 - The Spark & First Steps**
@@ -93,7 +93,7 @@
 <!-- HASHNODE-BLOG:START -->
 <!-- HASHNODE-BLOG:END -->
 
-<hr>
+<hr> -->
 
 ## 🎧 <span style="color:#1db954; font-size:1.2em">Vibe With Me</span>
 
