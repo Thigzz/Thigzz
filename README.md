@@ -4,14 +4,14 @@
 <h1 align="center">Hi there <span style="color:#ff6f61; font-weight:bold"></h1>
 
 <p align="center">
-  <strong><em>Architect moonlighting as a coder.</em></strong> 🏛️ <br>
-  <strong><em>Designer by training, coder by curiosity.</em></strong> 💻<br>
+  <strong><em>Architect moonlighting as a coder.</em></strong> <br>
+  <strong><em>Designer by training, coder by curiosity.</em></strong> <br>
   <span style="color:#888">Merging the physical and digital through design.</span>
 </p>
 
 <hr>
 
-## 🧱 <span style="color:#f9a825; font-size:1.2em">Bridging Architecture & Code</span>
+## <span style="color:#f9a825; font-size:1.2em">Bridging Architecture & Code</span>
 
 - 🔹 <strong>Architect + Creative Technologist</strong> exploring the intersections of form, function, and interaction
 - 🔹 Passionate about <span style="color:#66bb6a"><strong>residential design</strong></span>, <span style="color:#26a69a"><strong>sustainability</strong></span>, and <span style="color:#ef5350"><strong>intentional experiences</strong></span>
@@ -20,27 +20,27 @@
 <hr>
 
 
-## 🚀 <span style="color:#29b6f6; font-size:1.2em">Coding Journey</span>
+##  <span style="color:#29b6f6; font-size:1.2em">Coding Journey</span>
 
-- 🏗️ <strong>Foundation Phase:</strong> HTML + CSS + JavaScript — shaping visual language and interactivity
-- 🔄 <strong>Systemic Thinking:</strong> Python scripting, Flask logic, React interfaces
-- 🧠 <strong>Architectural Thinking:</strong> Deconstruct, prototype, and iterate across disciplines
-- ✨ <strong>Curious Futures:</strong> Generative design, immersive web (Three.js), API-integrated dashboards
+-  <strong>Foundation Phase:</strong> HTML + CSS + JavaScript — shaping visual language and interactivity
+-  <strong>Systemic Thinking:</strong> Python scripting, Flask logic, React interfaces
+-  <strong>Architectural Thinking:</strong> Deconstruct, prototype, and iterate across disciplines
+-  <strong>Curious Futures:</strong> Generative design, immersive web (Three.js), API-integrated dashboards
 
 <hr>
 
-## 🔨 <span style="color:#ab47bc; font-size:1.2em">Current Blueprints</span>
+##  <span style="color:#ab47bc; font-size:1.2em">Current Blueprints</span>
 
-- 📐 <strong>Architecture:</strong> Sustainable mixed-use urban development concept
-- 🌐 <strong>Dev:</strong> Interactive portfolio site in ReactJS
-- 📚 <strong>Learning:</strong> PostgreSQL + Advanced CSS Animations
+-  <strong>Architecture:</strong> Sustainable mixed-use urban development concept
+-  <strong>Dev:</strong> Interactive portfolio site in ReactJS
+-  <strong>Learning:</strong> PostgreSQL + Advanced CSS Animations
 
 <hr>
 
 ## 🛠️ <span style="color:#ef6c00; font-size:1.2em">Tools, Languages & Concepts</span>
 
 <p>
-  <strong>🧰 Software:</strong> <br>
+  <strong> Software:</strong> <br>
   <img src="https://img.shields.io/badge/Archicad-B81A1A?style=for-the-badge&logo=archicad&logoColor=white&labelColor=101010">
   <img src="https://img.shields.io/badge/AutoCAD-E2231A?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010">
   <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhino&logoColor=white&labelColor=101010">
@@ -50,7 +50,7 @@
 </p>
 
 <p>
-  <strong>💬 Languages & Frameworks:</strong><br>
+  <strong> Languages & Frameworks:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -61,7 +61,7 @@
 </p>
 
 <p>
-  <strong>🧠 Concepts:</strong><br>
+  <strong> Concepts:</strong><br>
   🔹 Biophilic Design<br>
   🔹 Parametric Design<br>
   🔹 UX/UI<br>
@@ -70,7 +70,7 @@
 
 <hr>
 
-<!--## 📝 From CAD to Code
+<!--##  From CAD to Code
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747144795227/6b27448f-46c8-4bee-b05f-2056c8fea75b.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Cover image for 'From Spatial Design to Digital Interfaces'" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
 
 **GeoScout Chronicles: Part 1 - The Spark & First Steps**
@@ -105,7 +105,7 @@
 
 <hr>
 
-## ✨ <span style="color:#26c6da; font-size:1.2em">GitHub Stats & Flair</span>
+##  <span style="color:#26c6da; font-size:1.2em">GitHub Stats & Flair</span>
 
 <table>
   <tr>
