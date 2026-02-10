@@ -1,128 +1,225 @@
-<img alt="Banner reading 'Building Digital Structures'" src="https://placehold.co/1200x300/FAFAFA/212121?text=Building+Digital+Structures&font=inter">
-</picture>
+<img alt="Building Digital Structures Banner" src="https://placehold.co/1200x300/FAFAFA/212121?text=Building+Digital+Structures&font=inter">
 
-<h1 align="center">Hi there <span style="color:#ff6f61; font-weight:bold"></h1>
+<h1 align="center">Ike Mwithiga</h1>
 
 <p align="center">
-  <strong><em>Architect moonlighting as a coder.</em></strong> <br>
-  <strong><em>Designer by training, coder by curiosity.</em></strong> <br>
-  <span style="color:#888">Merging the physical and digital through design.</span>
+Architect | Creative Technologist | Built Environment Systems Designer
 </p>
 
-<hr>
+---
 
-## <span style="color:#f9a825; font-size:1.2em">Bridging Architecture & Code</span>
+## About
 
-- 🔹 <strong>Architect + Creative Technologist</strong> exploring the intersections of form, function, and interaction
-- 🔹 Passionate about <span style="color:#66bb6a"><strong>residential design</strong></span>, <span style="color:#26a69a"><strong>sustainability</strong></span>, and <span style="color:#ef5350"><strong>intentional experiences</strong></span>
-- 🔹 See <span style="color:#42a5f5"><strong>code</strong></span> as an extension of design—shaping spatial experiences, visual stories, and digital workflows
+I am a graduate architect and creative technologist working at the intersection of physical space and digital infrastructure. My work explores how thoughtful design and software systems can improve how people experience, manage, and interact with the built environment.
 
-<hr>
+My architectural background focuses on residential and commercial design, sustainability strategies, luxury detailing, and digitally precise workflows. Alongside architectural practice, I design and develop web and mobile applications that support collaboration, property operations, and spatially informed digital tools.
 
+I approach both architecture and software through systems thinking, human-centered design, and long-term maintainability. I am particularly interested in how technology can support housing, community infrastructure, and collaborative design workflows.
 
-##  <span style="color:#29b6f6; font-size:1.2em">Coding Journey</span>
+---
 
--  <strong>Foundation Phase:</strong> HTML + CSS + JavaScript — shaping visual language and interactivity
--  <strong>Systemic Thinking:</strong> Python scripting, Flask logic, React interfaces
--  <strong>Architectural Thinking:</strong> Deconstruct, prototype, and iterate across disciplines
--  <strong>Curious Futures:</strong> Generative design, immersive web (Three.js), API-integrated dashboards
+## What I Am Building
 
-<hr>
+### Zurihaus
 
-##  <span style="color:#ab47bc; font-size:1.2em">Current Blueprints</span>
+Zurihaus is a property and community operating system designed to connect tenants, landlords, property managers, caretakers, and security teams through a shared digital infrastructure.
 
--  <strong>Architecture:</strong> Sustainable mixed-use urban development concept
--  <strong>Dev:</strong> Interactive portfolio site in ReactJS
--  <strong>Learning:</strong> PostgreSQL + Advanced CSS Animations
+The platform focuses on improving communication, maintenance workflows, incident tracking, and operational transparency across residential and mixed-use developments. It is designed as a modular PropTech ecosystem where independent services such as security, billing, and community engagement can function both together and as standalone SaaS modules.
 
-<hr>
+Core exploration areas include:
 
-## 🛠️ <span style="color:#ef6c00; font-size:1.2em">Tools, Languages & Concepts</span>
+- Property operations and maintenance workflows  
+- Real-time stakeholder communication systems  
+- Predictive analytics for rent, maintenance, and facility management  
+- Scalable architecture for multi-property and multi-service platforms  
 
-<p>
-  <strong> Software:</strong> <br>
-  <img src="https://img.shields.io/badge/Archicad-B81A1A?style=for-the-badge&logo=archicad&logoColor=white&labelColor=101010">
-  <img src="https://img.shields.io/badge/AutoCAD-E2231A?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010">
-  <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhino&logoColor=white&labelColor=101010">
-  <img src="https://img.shields.io/badge/Lumion-00A8E8?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white&labelColor=101010"> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white&labelColor=101010">
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=101010">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010">
-</p>
+---
 
-<p>
-  <strong> Languages & Frameworks:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</p>
+### Synchaus
 
-<p>
-  <strong> Concepts:</strong><br>
-  🔹 Biophilic Design<br>
-  🔹 Parametric Design<br>
-  🔹 UX/UI<br>
-  🔹 Environmental Psychology
-</p>
+Synchaus is an architectural and design client collaboration portal developed to support architecture firms in managing projects, client communication, documentation, and workflow transparency.
 
-<hr>
+The platform is designed as a digital extension of the design studio, allowing firms to provide clients with structured access to drawings, updates, feedback cycles, and project milestones.
 
-<!--##  From CAD to Code
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747144795227/6b27448f-46c8-4bee-b05f-2056c8fea75b.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Cover image for 'From Spatial Design to Digital Interfaces'" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
+The system focuses on:
 
-**GeoScout Chronicles: Part 1 - The Spark & First Steps**
-<p>
-  Follow along as I navigate the world of software development, chronicling the creation of GeoScout – a web-based site analysis tool. This series documents the journey from identifying a real-world architectural challenge to designing and implementing a practical solution using various web technologies. Discover the inspirations, features considered, implementation successes and stumbles, and the ongoing learning process of building a personal project from the ground up.
-</p>
+- Structured client communication environments  
+- Centralized drawing and document management  
+- Design iteration tracking and approval workflows  
+- Integration into firm websites as a leased or white-label service  
 
-<br clear="all"/> [![Read Full Article](https://img.shields.io/badge/Read_Full_Article-007bff?style=for-the-badge&logo=readme)](https://ithoughtialready.hashnode.dev/geoscout-chronicles-part-1-the-spark-and-first-steps)
-<br clear="all"/>
+---
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1746955335596/d1fdd516-43cf-4ac2-86bf-f05191766704.png" alt="Cover image for 'From Spatial Design to Digital Interfaces'" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
+### Personal Architecture Research and Design
 
-**From Spatial Design to Digital Interfaces: The Language of Space, Rewritten in CSS**
-<p>
-  I traded blueprints for browser windows, and while some of this coding stuff still makes my brain do backflips, something totally clicked when I met CSS. Turns out, designing a website isn't a million miles away from designing a building.
-</p>
+I am actively exploring residential architecture concepts that prioritize environmental performance, social cohesion, and spatial clarity. Current design explorations include atrium-centered family housing, sustainable site planning strategies, and contextual material expression.
 
-<br clear="all"/> [![Read Full Article](https://img.shields.io/badge/Read_Full_Article-007bff?style=for-the-badge&logo=readme)](https://ithoughtialready.hashnode.dev/from-spatial-design-to-digital-interfaces-the-language-of-space-rewritten-in-css)
-<br clear="all"/>
-<!-- HASHNODE-BLOG:START -->
-<!-- HASHNODE-BLOG:END -->
+---
 
-<hr> -->
+## Design Philosophy
 
-## 🎧 <span style="color:#1db954; font-size:1.2em">Vibe With Me</span>
+My work is driven by the belief that software and architecture are both forms of spatial design.
 
-<div align="center" style="margin-top: -5px; margin-bottom: 5px;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4l9a6nnnpk1pp61ehh5b37bup&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4l9a6nnnpk1pp61ehh5b37bup&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5e4eb1&bar_color_cover=true" alt="Spotify Now Playing" width="100%" style="margin: 0; padding: 0;" />
-  </a>
-</div>
+I treat interfaces as environments, user flows as circulation paths, and system architecture as infrastructure design. My approach emphasizes clarity, intentionality, and emotional resonance, informed by environmental psychology and human behavior within spaces.
 
-<hr>
+Across both physical and digital design, I prioritize systems that are adaptable, maintainable, and grounded in real human needs.
 
-##  <span style="color:#26c6da; font-size:1.2em">GitHub Stats & Flair</span>
+---
+
+## Technical Work
+
+### Frontend Development
+
+I build responsive and interactive user interfaces with a strong focus on usability, performance, and visual clarity. My frontend work emphasizes component modularity, clean state management, and design consistency.
+
+Primary focus areas include:
+
+- React ecosystem development  
+- TypeScript-driven scalable interface design  
+- Advanced CSS animation and interaction systems  
+- API-driven dashboards and data visualization  
+
+---
+
+### Backend and Systems Development
+
+I build backend logic and database architectures that support scalable SaaS platforms, collaborative workflows, and real-time data interaction.
+
+Areas of focus include:
+
+- Python for backend services, automation, and workflow scripting  
+- Supabase for database architecture, authentication, and real-time infrastructure  
+- REST and RPC based service design  
+- Data-driven application logic and system integration  
+
+---
+
+### Database and Infrastructure
+
+I design relational database structures and system workflows that prioritize reliability, clarity, and long-term scalability. My work often focuses on modeling real-world operational relationships such as tenant, landlord, service provider, and administrative workflows.
+
+---
+
+## Tools and Software
 
 <table>
-  <tr>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thigzz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" /></td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=10&theme=material-palenight" /></td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Architecture and Design
+
+<img src="https://img.shields.io/badge/Archicad-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Revit-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/AutoCAD-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Rhino-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/SketchUp-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Lumion-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Adobe_Creative_Suite-111111?style=for-the-badge">
+
+</td>
+
+<td width="50%" valign="top">
+
+### Technology and Development
+
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge">
+
+</td>
+</tr>
 </table>
 
+---
 
+## Current Learning and Exploration
 
-<p>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub Profile 3D Contribution Graph">
-</p>
+- Predictive analytics and data modeling for built environment platforms  
+- Generative and parametric design integration with software workflows  
+- Immersive and spatial web technologies  
+- Advanced database optimization and scalable SaaS architecture  
 
-<hr>
+---
+
+## Listening While Building
+
+Music plays an important role in my design and development process. I treat sound as part of my creative environment, often using it to shape focus, pacing, and creative rhythm while working.
 
 <p align="center">
-  <i style="color:#9e9e9e">"The computer is the most extraordinary tool we've ever come up with. It's the equivalent of a bicycle for our minds."</i> <br>
-  <span style="color:#cfd8dc;">— Steve Jobs</span>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=4l9a6nnnpk1pp61ehh5b37bup&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=4l9a6nnnpk1pp61ehh5b37bup&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5e4eb1&bar_color_cover=true" width="100%">
+  </a>
 </p>
+
+---
+
+## Impact and Direction
+
+My long-term work focuses on building digital systems that support the housing and property ecosystem. I am particularly interested in how technology can improve transparency, collaboration, and operational efficiency across residential communities and design practices.
+
+I am committed to developing tools that merge spatial thinking, software engineering, and human-centered design into cohesive and meaningful platforms.
+
+---
+
+## Selected Interests
+
+PropTech  
+Built Environment Technology  
+Design Systems  
+Spatial UX  
+Collaborative Design Platforms  
+Community Infrastructure Technology  
+Human-Centered SaaS Design  
+
+---
+
+## Collaboration
+
+I am open to collaborating on projects involving:
+
+- PropTech and housing technology platforms  
+- Architecture workflow digitization tools  
+- Built environment data systems  
+- Design-technology crossover products  
+- Spatial computing and immersive web projects  
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thigzz&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</p>
+
+---
+
+## Writing and Thought Work
+
+I write about architecture, software development, and the relationship between spatial design and digital systems.
+
+https://ithoughtialready.hashnode.dev
+
+---
+
+## Contact and Professional Presence
+
+LinkedIn: https://linkedin.com  
+Portfolio: (Add portfolio link)  
+Email: (Add preferred contact email)
+
+---
+
+## Closing
+
+I view design as the shaping of experience across mediums. Whether through architecture or software, my goal is to create systems that are intentional, clear, and meaningful to the people who use them.
