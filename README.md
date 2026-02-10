@@ -204,22 +204,6 @@ I am open to collaborating on projects involving:
 
 ---
 
-## Writing and Thought Work
-
-I write about architecture, software development, and the relationship between spatial design and digital systems.
-
-https://ithoughtialready.hashnode.dev
-
----
-
-## Contact and Professional Presence
-
-LinkedIn: https://linkedin.com  
-Portfolio: (Add portfolio link)  
-Email: (Add preferred contact email)
-
----
-
 ## Closing
 
 I view design as the shaping of experience across mediums. Whether through architecture or software, my goal is to create systems that are intentional, clear, and meaningful to the people who use them.
