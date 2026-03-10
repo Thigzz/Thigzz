@@ -194,8 +194,8 @@ I am open to collaborating on projects involving:
 ## GitHub Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thigzz&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats-eight-indol-88.vercel.app/api?username=Thigzz&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-eight-indol-88.vercel.app/api/top-langs/?username=Thigzz&layout=compact&langs_count=8&count_private=true" />
 </p>
 
 <p align="center">
