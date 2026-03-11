@@ -26,14 +26,14 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
-          # Save the freshly generated SVGs before touching git state
+          # Save freshly generated SVGs
           cp -r profile-3d-contrib /tmp/profile-3d-contrib-new
 
-          # Sync to the actual current remote (no stale base)
+          # Fetch and force local main branch to exactly match remote
           git fetch origin main
-          git reset --hard origin/main
+          git checkout -B main origin/main
 
-          # Restore the new SVGs on top of the clean remote state
+          # Restore new SVGs on top of the clean remote tip
           cp -r /tmp/profile-3d-contrib-new/. profile-3d-contrib/
 
           git add -A
