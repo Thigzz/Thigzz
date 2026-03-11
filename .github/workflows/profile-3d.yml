@@ -29,8 +29,8 @@ jobs:
           
           if ! git diff --staged --quiet; then
             git commit -m "Generate 3D Contribution Graph"
-            # Rebase helps avoid "rejected" pushes if the README changed elsewhere
-            git pull --rebase origin main
+            # The '-X theirs' flag forces Git to use the newly generated SVGs
+            git pull origin main --rebase -X theirs
             git push
           else
             echo "No changes to commit"
