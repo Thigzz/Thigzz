@@ -25,8 +25,17 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+          # Save the freshly generated SVGs before touching git state
+          cp -r profile-3d-contrib /tmp/profile-3d-contrib-new
+
+          # Sync to the actual current remote (no stale base)
           git fetch origin main
           git reset --hard origin/main
+
+          # Restore the new SVGs on top of the clean remote state
+          cp -r /tmp/profile-3d-contrib-new/. profile-3d-contrib/
+
           git add -A
           if ! git diff --staged --quiet; then
             git commit -m "Generate 3D Contribution Graph"
