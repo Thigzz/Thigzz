@@ -30,7 +30,7 @@ jobs:
           
           if ! git diff --staged --quiet; then
             git commit -m "Generate 3D Contribution Graph"
-            git pull origin main --strategy-option=ours
+            git push --force origin main
             git push
           else
             echo "No changes to commit"
