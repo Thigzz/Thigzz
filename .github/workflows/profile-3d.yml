@@ -25,14 +25,12 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config pull.rebase false
           git add -A
           
           if ! git diff --staged --quiet; then
             git commit -m "Generate 3D Contribution Graph"
-            
-            # Switch to a standard merge, forcing Git to keep our new local files (-X ours)
-            git pull origin main --no-rebase --strategy-option=ours
-            
+            git pull origin main --strategy-option=ours
             git push
           else
             echo "No changes to commit"
